@@ -2,7 +2,6 @@ C:\Users\User\source\repos\Server\Server\bin\Debug\netcoreapp3.1\appsettings.Dev
 C:\Users\User\source\repos\Server\Server\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\User\source\repos\Server\Server\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 C:\Users\User\source\repos\Server\Server\bin\Debug\netcoreapp3.1\Server.exe
-C:\Users\User\source\repos\Server\Server\obj\Debug\netcoreapp3.1\Server.csprojAssemblyReference.cache
 C:\Users\User\source\repos\Server\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfoInputs.cache
 C:\Users\User\source\repos\Server\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfo.cs
 C:\Users\User\source\repos\Server\Server\obj\Debug\netcoreapp3.1\Server.RazorTargetAssemblyInfo.cache
@@ -18,5 +17,14 @@ C:\Users\User\source\repos\Server\Server\obj\Debug\netcoreapp3.1\Server.dll
 C:\Users\User\source\repos\Server\Server\obj\Debug\netcoreapp3.1\Server.pdb
 C:\Users\User\source\repos\Server\Server\obj\Debug\netcoreapp3.1\Server.genruntimeconfig.cache
 C:\Users\User\source\repos\server\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\User\source\repos\server\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\User\source\repos\server\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\source\repos\server\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\source\repos\server\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\source\repos\server\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\source\repos\server\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\source\repos\server\Server\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\source\repos\server\Server\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\User\source\repos\server\Server\obj\Debug\netcoreapp3.1\Server.csproj.CoreCompileInputs.cache
 C:\Users\User\source\repos\server\Server\obj\Debug\netcoreapp3.1\Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\source\repos\server\Server\obj\Debug\netcoreapp3.1\Server.csprojAssemblyReference.cache
