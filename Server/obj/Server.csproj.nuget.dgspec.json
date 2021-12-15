@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\server\\Server\\Server.csproj": {}
+    "D:\\桌面\\SignalR\\Server\\Server\\Server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\server\\Server\\Server.csproj": {
+    "D:\\桌面\\SignalR\\Server\\Server\\Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\server\\Server\\Server.csproj",
+        "projectUniqueName": "D:\\桌面\\SignalR\\Server\\Server\\Server.csproj",
         "projectName": "Server",
-        "projectPath": "C:\\Users\\User\\source\\repos\\server\\Server\\Server.csproj",
+        "projectPath": "D:\\桌面\\SignalR\\Server\\Server\\Server.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\server\\Server\\obj\\",
+        "outputPath": "D:\\桌面\\SignalR\\Server\\Server\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

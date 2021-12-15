@@ -1,12 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Net.Http;
 using System.Net.Http.Headers;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using Newtonsoft.Json;
 using static Server.Controllers.BroadCastController;
 
 namespace Server.Controllers
@@ -20,6 +20,7 @@ namespace Server.Controllers
         {
             return "Server Start";
         }
+  
 
         [AllowAnonymous]
         [HttpGet("UserInfo")]
@@ -44,12 +45,9 @@ namespace Server.Controllers
 
         [Authorize(AuthenticationSchemes = "Bearer")]
         [HttpGet("GetUsers")]
-        public IActionResult Test()
-        {
-          
+        public IActionResult OnlineUsers()
+        {       
             return Ok(UserHandler.ConnectedIds);
-
-
         }
 
 
